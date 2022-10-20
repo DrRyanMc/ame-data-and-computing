@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Data and Computing for Chemical Engieers
-author: Alexander Dowling, Ryan McClarren, Yamil Colón, et al.
-logo: media/cbe_logo.jpg
+title: Data and Computing for Engineers
+author: Ryan McClarren, Alexander Dowling,  Yamil Colón, et al.
+logo: media/ame_logo.jpg
 
 # Launch on Google Colab button
 launch_buttons:
