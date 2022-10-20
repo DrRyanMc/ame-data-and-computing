@@ -1,6 +1,6 @@
 # Welcome to Data and Computing!
 
-AME 2XXXX at U. Notre Dame
+AME 20251 at U. Notre Dame
 
 https://drryanmc.github.io/ame-data-and-computing/
 
