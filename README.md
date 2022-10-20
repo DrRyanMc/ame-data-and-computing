@@ -1,8 +1,8 @@
-# Welcome to (Advanced) Data and Computing!
+# Welcome to Data and Computing!
 
-CBE 20258 and CBE 60258 at U. Notre Dame
+AME 2XXXX at U. Notre Dame
 
-https://ndcbe.github.io/data-and-computing/
+https://drryanmc.github.io/ame-data-and-computing/
 
 
 ## Configuring local environment to contribute
